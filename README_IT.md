@@ -1,3 +1,6 @@
+> 🇬🇧 This project is also available in English: [README.md](./README.md)
+
+
 # 📡 ESP32 LoRa – Comunicazione Punto-Punto (Sender ↔ Receiver)
 
 Questo progetto utilizza due schede ESP32 Heltec LoRa V3 (con chip SX1262 e display OLED integrato) per realizzare una comunicazione punto-punto via LoRa, con visualizzazione locale su display e su serial monitor.  
