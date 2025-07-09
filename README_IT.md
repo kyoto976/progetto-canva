@@ -1,4 +1,4 @@
-> 🇬🇧 This project is also available in English: [README.md](./README.md)
+> 🇬🇧 This project is also available in English: [README.md](./README_EN.md)
 
 
 # 📡 ESP32 LoRa – Comunicazione Punto-Punto (Sender ↔ Receiver)
