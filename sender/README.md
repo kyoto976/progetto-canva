@@ -54,8 +54,8 @@ Include un display OLED I2C integrato per feedback visivo locale e supporta coma
    Messaggio #1
    ...
 3. Puoi controllare da serial monitor:
-- Digita `stop` per fermare l’invio
-- Digita `start` per riattivarlo
+   - Digita `stop` per fermare l’invio
+   - Digita `start` per riattivarlo
 4. Il display OLED indica se l'invio è attivo o disattivo, e mostra ogni messaggio inviato.
 
 ---
