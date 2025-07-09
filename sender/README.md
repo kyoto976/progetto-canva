@@ -50,3 +50,45 @@ Include un display OLED I2C integrato per feedback visivo locale e supporta coma
 
 1. All’avvio, il display mostra **"LoRa Sender..."** e **"LoRa inizializzato!"**
 2. Ogni **5 secondi** viene inviato un messaggio testuale via LoRa:
+   Messaggio #0
+   Messaggio #1
+   ...
+3. Puoi controllare da serial monitor:
+- Digita `stop` per fermare l’invio
+- Digita `start` per riattivarlo
+4. Il display OLED indica se l'invio è attivo o disattivo, e mostra ogni messaggio inviato.
+
+---
+
+## 🧪 Output Serial Monitor
+LoRa inizializzato!
+Invio: Messaggio #0
+Invio: Messaggio #1
+...
+Digita 'stop' per fermare l'invio o 'start' per riattivarlo.
+
+---
+
+## 🛠️ Da fare (opzionale)
+
+- Aggiungere lettura sensori (es: temperatura, gas)
+- Ottimizzare l’intervallo di invio
+- Aggiungere conferma ricezione via LoRa
+
+---
+
+## 📁 File inclusi
+
+- `main.cpp` → codice completo del trasmettitore
+- `README.md` → spiegazione dettagliata
+
+---
+
+## 👤 Autore
+
+**Giuseppe Cialdella**  
+📧 giuseppecialdella97@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/giuseppe-cialdella-2b582a295)
+
+
+
